@@ -2,18 +2,10 @@ import React,{useState} from "react";
 import Header from "./Header";
 import Footer from "./Footer";
 import Note from "./Note";
-// import Notes from "../notes";
 import CreateArea from "./CreateTextArea";
 
-// function createnotes(noteitems){
-//     return(
-//         <Note
-//         key={noteitems.key}
-//         title={noteitems.title}
-//         content={noteitems.content}
-//         />
-//     )
-// }
+
+
 
 const App = () => {
   const [notes, setNotes] = useState([]);

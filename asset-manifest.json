@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/Vikasbisariya-dev/NoteKeeper.git/static/js/main.21a625d2.js",
-    "index.html": "/Vikasbisariya-dev/NoteKeeper.git/index.html",
-    "main.21a625d2.js.map": "/Vikasbisariya-dev/NoteKeeper.git/static/js/main.21a625d2.js.map"
+    "main.js": "/NoteKeeper/static/js/main.21a625d2.js",
+    "index.html": "/NoteKeeper/index.html",
+    "main.21a625d2.js.map": "/NoteKeeper/static/js/main.21a625d2.js.map"
   },
   "entrypoints": [
     "static/js/main.21a625d2.js"
